@@ -332,6 +332,7 @@
     <Compile Include="Assets\InputManager\Source\Runtime\InputManager.cs" />
     <Compile Include="Assets\InputManager\Source\Runtime\InputManager_Unity.cs" />
     <Compile Include="Assets\Scripts\BallColliderScripts\CameraFollowBall.cs" />
+    <Compile Include="Assets\Scripts\BallColliderScripts\ModelRotationDelay.cs" />
     <Compile Include="Assets\Scripts\BallColliderScripts\RollBallControler.cs" />
     <Compile Include="Assets\Scripts\Billboard.cs" />
     <Compile Include="Assets\Scripts\Camera1.cs" />
